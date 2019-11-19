@@ -13,6 +13,7 @@
   "license": "MIT",
   "dependencies": {},
   "devDependencies": {
-    "webpack": "^4.41.2"
+    "webpack": "^4.41.2",
+    "webpack-cli": "3.3.10"
   }
 }
